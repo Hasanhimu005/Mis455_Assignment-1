@@ -110,17 +110,4 @@
     }
     /* card part end*/
     
-    @media only screen and (max-width: 600px) {
-        .about {
-            display: inherit;
-        }
-        .education {
-            display: inline;
-        }
-        .education .card {
-            max-width: 100%;
-        }
-        footer {
-            width: auto;
-        }
-    }
+    
